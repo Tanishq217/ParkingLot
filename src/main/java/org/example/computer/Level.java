@@ -1,4 +1,6 @@
 package org.example.computer;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class Level {
 
